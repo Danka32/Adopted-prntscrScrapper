@@ -26,10 +26,10 @@ def scrapePictures():
 			name = picture + picture2
 			printsc = "http://i.imgur.com/" + "" + str(picture) + str(picture2) + ".jpg"
 			try:
-			    urllib.request.urlretrieve(""+ printsc, str(name) + ".jpg")
+				urllib.request.urlretrieve(""+ printsc, str(name) + ".jpg")
 			except:
-			    print("[-] Invalid: " + picture + picture2)
-			    continue
+				print("[-] Invalid: " + picture + picture2)
+				continue 
 			file = os.path.getsize(str(name)+ ".jpg")
 			# print printsc
 				# original print file. Currently in maintance mode.
