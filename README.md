@@ -6,4 +6,4 @@ but i did it because it's a good practice for me and may be it helps someone.
 Downloads random photos uploaded via Prntscr.
 Usage: python scrapper.py (amount of threads)
 
-1)Open "Win+R" 2)write "cmd" there you need to 3)write road to file example "cd C:\Users\Name\Desktop\scrapper" 4)and then write "python scrapper.py [number of threads]
+1)Press "Win+R" 2)write "cmd" there you need to 3)write road to file example "cd C:\Users\Name\Desktop\scrapper" 4)and then write "python scrapper.py [number of threads]
