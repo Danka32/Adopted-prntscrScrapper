@@ -8,6 +8,6 @@ scrapper.py download pictures from i.imgur.com, and scrapper2.py from img.prntsc
 Downloads random photos uploaded via Prntscr.
 Usage: python scrapper.py (amount of threads)
 
-1)Press "Win+R" 2)write "cmd" there(in cmd) you need to 3)write road to file, example: "cd C:\Users\Name\Desktop\scrapper" 4)and then write "python scrapper.py [number of threads]
+1)Press "Win+R" 2)write "cmd" there(in cmd) you need to 3)write way to file, example: "cd C:\Users\Name\Desktop\scrapper" 4)and then write "python scrapper.py [number of threads]
 
 Video guide: https://youtu.be/oJwfA-h9aAw
