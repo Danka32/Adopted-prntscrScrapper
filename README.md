@@ -3,7 +3,7 @@ I adopted this old version https://github.com/markbookk/prntscrScraper on new py
 I'm not a US hacker, possibly you can find a mistakes in my code, 
 but i did it because it's a good practice for me and may be it helps someone.
 
-scrapper.py download pictures from i.imgur.com, and scrapper2.py from img.prntscr.com(from img.prntscr.com it download some new pictures unlike from i.imgur.com.
+scrapper.py download pictures from i.imgur.com, and scrapper2.py from img.prntscr.com(from img.prntscr.com it download some new pictures unlike from i.imgur.com)
 
 Downloads random photos uploaded via Prntscr.
 Usage: python scrapper.py (amount of threads)
